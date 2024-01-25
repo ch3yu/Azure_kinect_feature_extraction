@@ -56,3 +56,4 @@ After coordinating the folder structure as instructed, please redirect the comma
 >> gcc -g -c src\skeleton_dyadic.c -o src\skeleton_dyadic.o 
 >> gcc -g src\skeleton_dyadic.o -o src\skeleton_dyadic -Llib -lk4a -lk4abt -lk4arecord
 ```
+## Reference
