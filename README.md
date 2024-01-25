@@ -3,7 +3,7 @@
 
 ## Introduction
 A growing body of research has been dedicated to <strong>human interaction recognition</strong>, which interprets the bodily movements and coordination between two (or more) individuals. There are already many existing modalities for human interaction recognition, such as RGB cameras and depth sensors. RGB cameras have been used ubiquitously for interaction recognition. While cameras provide an abundance of information, they give rise to the <strong>unauthorized use of personal information</strong>. Depth sensors have ushered in a new area of research focusing on recognizing interactions through <strong>skeletal movements</strong> while prioritizing the protection of privacy. The use of 3D key-point coordinates for skeletons not only improves computational efficiency, but also adds a third dimension that helps to overcome the issue of varying camera angles, a common limitation of camera-based systems.
-This work aims to leverage <strong>Azure Kinect Development Kit (DK)</strong> to collect depth data and translate it to skeletal data with <strong>Azure Kinect SDK</strong>, which is one of the scaffolding components of <strong>skeleton-based human interaction recognition</strong> is collect skeletal data through depth sensors.
+This work aims to leverage <strong>Azure Kinect Development Kit (DK)</strong> to collect depth data and translate it to skeletal data with <strong>Azure Kinect SDK</strong>, which is one of the scaffolding components of <strong>skeleton-based human interaction recognition</strong>.
 
 ## Visualization
 The flow of collecting skeletal data is presented below:
